@@ -51,12 +51,12 @@ body {
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0;
   }
-  .thumbnail {
+  .card {
     padding: 0 0 15px 0;
     border: none;
     border-radius: 0;
   }
-  .thumbnail p {
+  .card p {
     margin-top: 15px;
     color: #555;
   }
